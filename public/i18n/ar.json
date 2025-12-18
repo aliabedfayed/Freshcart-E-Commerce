@@ -1,0 +1,50 @@
+{
+    "nav": {
+        "home": "الرئيسية",
+        "products": "المنتجات",
+        "categories": "الفئات",
+        "brands": "الماركات",
+        "cart": "عربة التسوق",
+        "logout": "تسجيل الخروج",
+        "login": "تسجيل الدخول",
+        "register": "إنشاء حساب"
+    },
+    "cat-slider": {
+        "shop_popular_categories": "تسوق من الفئات الشائعة"
+    },
+    "prod-list": {
+        "popular_products": "المنتجات الأكثر شهرة",
+        "no_products_found": "لا توجد منتجات",
+        "search_placeholder": "ابحث عن المنتجات..."
+    },
+    "prod-card": {
+        "add_to_cart": "أضف إلى السلة"
+    },
+    "cat": {
+        "categories": "الفئات"
+    },
+    "brands": {
+        "top_brands": "أفضل الماركات"
+    },
+    "cart": {
+        "shop_cart": "سلة التسوق",
+        "total_cart_price": "إجمالي سعر السلة",
+        "egp": "جنيه مصري",
+        "clear": "مسح",
+        "continue_shopping": "متابعة التسوق",
+        "go_to_checkout": "الذهاب إلى الدفع",
+        "price": "السعر",
+        "remove": "إزالة",
+        "no_items_in_cart": "لا توجد عناصر في السلة",
+        "loading": "جاري التحميل..."
+    },
+    "cat-details": {
+        "products": "المنتجات",
+        "no-products": "لا توجد منتجات لهذه الفئة"
+    },
+    "orders": {
+        "payment-successful": "تم الدفع بنجاح!",
+        "order-success": "تم تنفيذ طلبك بنجاح.",
+        "back-to-home": "العودة إلى الرئيسية"
+    }
+}

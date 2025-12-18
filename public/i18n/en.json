@@ -1,0 +1,50 @@
+{
+    "nav": {
+        "home": "Home",
+        "products": "Products",
+        "categories": "Categories",
+        "brands": "Brands",
+        "cart": "Cart",
+        "logout": "Logout",
+        "login": "Login",
+        "register": "Register"
+    },
+    "cat-slider": {
+        "shop_popular_categories": "Shop Popular Categories"
+    },
+    "prod-list": {
+        "popular_products": "Popular Products",
+        "no_products_found": "No Products Found",
+        "search_placeholder": "Search products..."
+    },
+    "prod-card": {
+        "add_to_cart": "Add to Cart"
+    },
+    "cat": {
+        "categories": "Categories"
+    },
+    "brands": {
+        "top_brands": "Top Brands"
+    },
+    "cart": {
+        "shop_cart": "Shop Cart",
+        "total_cart_price": "Total Cart Price",
+        "egp": "EGP",
+        "clear": "Clear",
+        "continue_shopping": "Continue Shopping",
+        "go_to_checkout": "Go To Checkout",
+        "price": "Price",
+        "remove": "Remove",
+        "no_items_in_cart": "No items in cart.",
+        "loading": "Loading...."
+    },
+    "cat-details": {
+        "products": "Products",
+        "no-products": "There is no products in this category"
+    },
+    "orders": {
+        "payment-successful": "Payment Successful!",
+        "order-success": "Your order has been placed successfully.",
+        "back-to-home": "Back To Home"
+    }
+}
